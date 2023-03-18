@@ -6,12 +6,24 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 ## Packages
 
-- Spatie / Query Builder
-- Spatie / Activitylog
-- Spatie / Collection-Macros
-- Spatie / Permission
-- Laravel / Telescope
-- Intervention / Image
+- [Intervention / Image](https://image.intervention.io/v2)
+- [Intervention / Validation](https://github.com/Intervention/validation)
+- [Laravel / Telescope](https://laravel.com/docs/10.x/telescope)
+- [Spatie / Activitylog](https://spatie.be/docs/laravel-activitylog/v4/introduction)
+- [Spatie / Laravel Collection Macros](https://github.com/spatie/laravel-collection-macros)
+- x [Spatie / Laravel Media Library](https://spatie.be/docs/laravel-medialibrary/v10/introduction)
+- [Spatie / Laravel Permission](https://spatie.be/docs/laravel-permission/v5/introduction)
+- [Spatie / Laravel Query Builder](https://spatie.be/index.php/docs/laravel-query-builder/v5/introduction)
+
+## Optional Packages
+- [thephpleague/flysystem-aws-s3-v3](https://github.com/thephpleague/flysystem-aws-s3-v3)
+- [pacerit/laravel-polish-validation-rules](https://github.com/pacerit/laravel-polish-validation-rules)
+- [spatie/laravel-responsecache](https://github.com/spatie/laravel-responsecache)
+- [spatie/laravel-tags](https://spatie.be/docs/laravel-tags/v4/introduction)
+- [staudenmeir/eloquent-has-many-deep](https://github.com/staudenmeir/eloquent-has-many-deep)
+- [laravel-lang/lang](https://github.com/Laravel-Lang/lang)
+- [prgayman/laravel-sms](https://github.com/prgayman/laravel-sms)
+- [propaganistas/laravel-phone](https://github.com/Propaganistas/Laravel-Phone)
 
 ## License
 
